@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\About",
+    "\\src\\MainPage",
+    "\\src\\pathfindingAlgorithms",
+    "\\src\\PathFindingVisualizer",
+    "\\src\\PathFindingVisualizer\\Node",
+    "\\src\\SortingAlgorithms",
+    "\\src\\SortingVisualizer"
+  ],
+  "SelectedNode": "\\src\\PathFindingVisualizer\\pathfindingVisualizer.jsx",
+  "PreviewInSolutionExplorer": false
+}
