@@ -42,12 +42,6 @@ Algorizz is a web-based application designed to visualize common sorting and gra
     cd Algorizz
     ```
 
-3.  **Open the `index.html` file in your web browser.**
-
-    ```bash
-    # e.g. open index.html with your browser of choice.
-    ```
-
 ## Usage
 
 * **Sorting Algorithms:**
